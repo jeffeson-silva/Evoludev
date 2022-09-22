@@ -1,0 +1,28 @@
+body{
+    background-image: radial-gradient(circle at 50% -3.03%, #ff87b6 0, #ff7ebc 8.33%, #ff75c2 16.67%, #f86cc8 25%, #e864cd 33.33%, #d55cd3 41.67%, #be55d8 50%, #a250dd 58.33%, #814fe2 66.67%, #534fe7 75%, #0051ec 83.33%, #0054ef 91.67%, #0056f1 100%);
+    color: white;
+    
+}
+
+
+table{
+    
+    padding: 2%;
+    
+}
+
+th {
+    border: 1px solid ;
+    width: 5%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    
+}
+
+td {
+    border: 1px solid;  
+    padding:1%;
+    width: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+

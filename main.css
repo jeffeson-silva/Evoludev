@@ -1,0 +1,49 @@
+body {
+    background-image: radial-gradient(circle at 50% -3.03%, #ff87b6 0, #ff7ebc 8.33%, #ff75c2 16.67%, #f86cc8 25%, #e864cd 33.33%, #d55cd3 41.67%, #be55d8 50%, #a250dd 58.33%, #814fe2 66.67%, #534fe7 75%, #0051ec 83.33%, #0054ef 91.67%, #0056f1 100%);
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.title {
+    margin-left: 45%;
+
+}
+
+h4 {
+    padding-left: 35%;
+}
+
+#aprendizado {}
+
+.entrada-texto {
+    padding: 0.2em;
+    width: 50%;
+    border: 1px solid #59429d;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    display: block;
+    margin-left: 25%;
+    text-align: center;
+
+}
+
+.entrada-number {
+    width: 5%;
+    text-align: center;
+    border: 1px solid #59429d;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+fieldset{
+    margin-left: 25%;    
+    width: 50%;
+    text-align: center;
+    border: 3px solid;
+    height: 50%;
+}
+
+#submit {
+    text-align: center;
+    margin-left: 47%;
+    padding: 0.5%;
+    width: 10%;
+}
